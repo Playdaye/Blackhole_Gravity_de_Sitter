@@ -1,5 +1,5 @@
 ---
-title: "Fields, Strings and Geometries"
+title: "New developments in black holes and de sitter space"
 permalink: /index.html
 layout: single
 classes: wide
@@ -9,9 +9,9 @@ sidebar:
     - nav: contact
 ---
 
-* Dates: 24-26 Sept 2021
-* Venue: 3rd floor lecture hall of Jinchunyuan West Building 近春园西楼三楼报告厅
-* Hotel: Tsinghua Jiasuo hotel 清华甲所宾馆
+* Dates: 19-23 Jan. 2025
+* Venue: TBD, Xiamen Asia Gulf Hotel 亚洲湾大酒店
+* Hotel: Xiamen Asia Gulf Hotel 亚洲湾大酒店
 * Contact Information
     <ul>
         {% for child in site.data.navigation.contact[0].children %}
