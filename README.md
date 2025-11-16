@@ -1,4 +1,4 @@
-# YMSC Gauge Theory Workshop Sept 2021
+# Blackhole, Gravity, and de Sitter
 
 Powered by [Jekyll](https://jekyllrb.com/) & [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
 
