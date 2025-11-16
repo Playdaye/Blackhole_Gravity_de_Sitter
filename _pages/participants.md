@@ -8,48 +8,120 @@ sidebar:
     - nav: sitemap
     - nav: contact
 other_participants:
-    - gname: Xiaobin
-      fname: Li
-      from: SWJT Chengdu
-    - gname: Hao
-      fname: Wang
-      from: Fudan University
-    - gname: Peihe
+
+
+
+    - gname: Jianxin
+      fname: Lu
+      from: USTC
+
+    - gname: Bin
+      fname: Chen
+      from: Ningbo University
+    
+    - gname: Wenli
       fname: Yang
-      from: Tianjin University
-    - gname: Jiaqun
-      fname: Jiang
-      from: Fudan University
-    - gname: Babak
-      fname: Haghighat
-      from: YMSC Tsinghua University
-    - gname: Fengjun
-      fname: Xu
-      from: BIMSA
-    - gname: Jirui
-      fname: Guo
-      from: YMSC Tsinghua University
-    - gname: Wei
-      fname: Cui
-      from: BIMSA
-    - gname: Ken
-      fname: Kikuchi
-      from: YMSC Tsinghua University
-    - gname: Qingsheng
+      from: Northeast University
+
+    - gname: Junpeng 
+      fname: Cao
+      from: Institute of Physics, CAS
+
+    - gname: Kimyeong 
+      fname: Lee
+      from:  BIMSA
+
+    - gname: Xin
+      fname: Sun
+      from:  Peking University
+
+    - gname: Yi
+      fname: Pang
+      from:  Tianjin University
+
+    - gname: Minxin
+      fname: Huang
+      from:  USTC
+
+    - gname: Xin
+      fname: Wang
+      from:  USTC
+
+    - gname: Jun
+      fname: Nian
+      from:  UCSA, CAS
+
+    - gname: Jieqiang
+      fname: Wu
+      from:  ITP, CAS
+
+    - gname: Cheng
+      fname: Peng
+      from:  KITS, CAS
+  
+    - gname: Yang
+      fname: Zhou
+      from:  Fudan University
+
+    - gname: Sung-Soo
+      fname: Kim
+      from:  UESTC, Chengdu
+
+    - gname: Song
+      fname: He
+      from:  Ningbo University
+
+    - gname: Jie
+      fname: Gu
+      from:  Southeast University
+
+    - gname: Qiang
+      fname: Wen
+      from:  Southeast University
+
+    - gname: Xin
+      fname: Gao
+      from:  Sichuan University
+
+    - gname: Peng
+      fname: Zhao
+      from:  Tianjin University, Fuzhou Campus
+
+    - gname: Ruidong
+      fname: Zhu
+      from:  Soochow University
+
+    - gname: Yang
+      fname: Lei
+      from:  Soochow University  
+
+    - gname: Hong
       fname: Zhang
-      from: Peking University
-    - gname: Mauricio
-      fname: Romo
-      from: YMSC Tsinghua University
-    - gname: Rui
-      fname: Dong
-      from: BIMSA
+      from:  Shanghai University
+
+    - gname: Xinyu
+      fname: Zhang
+      from:  Zhejiang University
+
+    - gname: Yen-Kheng
+      fname: Lim
+      from:  Xiamen University, Malaysia Campus    
+
     - gname: Hao
       fname: Zou
-      from: BIMSA
+      from: SIMIS
+  
     - gname: Hongfei
       fname: Shu
-      from: BIMSA
+      from: Zhengzhou University
+
+
+    - gname: Yiwen
+      fname: Pan
+      from: Sun Yat-sen University
+
+
+
 
 ---
 
