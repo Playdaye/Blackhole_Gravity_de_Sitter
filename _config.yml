@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "New developments in black holes and de sitter space"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "<a href=https://ymsc-strings.github.io>YMSC Strings</a>"
+name                     : "Blackhole Gravity de Sitter Workshop"
 description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,9 +107,9 @@ footer:
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ymsc-strings/gauge-theory-workshop-sept-2021"
+    - label: "GitHub"       
+      icon: "fab fa-fw fa-github"      
+      url: "https://www.google.com/search?q=https://github.com/Playdaye/Blackhole_Gravity_de_Sitter"
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
       # url:
