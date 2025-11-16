@@ -28,48 +28,40 @@ sitemap:
 contact:
     - title: "Contact Information"
       children:
+          - title: "Chi-Ming Chang"
+            mail: ""
           - title: "Jin Chen"
-            mail: "jinchen@mail.tsinghua.edu.cn"
-          - title: "Marcus Sperling"
-            mail: "msperling@mail.tsinghua.edu.cn"
+            mail: "zenofox@gmail.com"
+          - title: "Janet Hung"
+            mail: ""
+          - title: "Zhenbin Yang"
+            mail: ""  
 
 speakers:
-  - gname: Minxin
-    fname: Huang
-    from: USTC, Hefei
-  - gname: Sung-Soo
-    fname: Kim
-    from: UESTC, Chengdu
-  - gname: Satoshi
-    fname: Nawata
-    from: Fudan University, Shanghai
-  - gname: Peng
-    fname: Zhao
-    from: ITP CAS, Beijing
-  - gname: Yinan
-    fname: Wang
-    from: Peking University
-  - gname: Futoshi
-    fname: Yagi
-    from: South-West JiaoTong University, Chengdu
-  - gname: Hong
-    fname: Zhang
-    from: Shanghai University
-  - gname: Ruidong
-    fname: Zhu
-    from: Soochow University, Suzhou
-  - gname: Ioannis
-    fname: Papadimitriou
-    from: BIMSA
-  - gname: Yiwen
-    fname: Pan
-    from: Sun Yat-Sen University, Guangzhou
-  - gname: Junbao
-    fname: Wu
-    from: Tianjin University
-  - gname: Yunfeng
+  - gname: Mathew
+    fname: Heydeman
+    from: Harvard University
+    
+  - gname: Yikun
     fname: Jiang
-    from: Southeast University, Nanjing
-  - gname: Junya
-    fname: Yagi
-    from: YMSC Tsinghua University
+    from: Northeastern University
+    
+  - gname: Robert de Melo
+    fname: Koch
+    from: Huzhou University
+    
+  - gname: Ji-Hoon 
+    fname: Lee
+    from: ETH Zurich
+    
+  - gname: Sean
+    fname: Colin-Ellerin
+    from: CERN
+    
+  - gname: Cynthia
+    fname: Yan
+    from: Harvard University
+
+  - gname: Mengyang
+    fname: Zhang
+    from: IPMU, Tokyo University 
