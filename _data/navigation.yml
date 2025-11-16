@@ -24,6 +24,8 @@ sitemap:
             url: /speakers.html
           - title: "Participants"
             url: /participants.html
+          - title: "Registration"
+            url: /registration.html  
 
 contact:
     - title: "Contact Information"
