@@ -21,6 +21,6 @@ sidebar:
             </li>
         {% endfor %}
     </ul>
-* Registered visitors can enter Tsinghua campus only through the Southeast Gate.   
-* __Attention:__ Due to the operational organisation of Jiasuo Hotel, all participants staying in Jiasuo need to __check out on Sept 26, 2021 by 8am__. Breakfast can still be taken after check out. We apologise for the inconvenience caused.
-* Zoom meeting ID: 228 011 0844 and Passcode: Chern110
+* to be updated, Registered visitors can enter Tsinghua campus only through the Southeast Gate.   
+* __Attention:__ To be updated, Due to the operational organisation of Jiasuo Hotel, all participants staying in Jiasuo need to __check out on Sept 26, 2021 by 8am__. Breakfast can still be taken after check out. We apologise for the inconvenience caused.
+* Zoom meeting ID: TBD
