@@ -31,13 +31,13 @@ contact:
     - title: "Contact Information"
       children:
           - title: "Chi-Ming Chang"
-            mail: ""
+            mail: "cmchang@tsinghua.edu.cn"
           - title: "Jin Chen"
             mail: "zenofox@gmail.com"
           - title: "Janet Hung"
-            mail: ""
+            mail: "lyhung@tsinghua.edu.cn"
           - title: "Zhenbin Yang"
-            mail: ""  
+            mail: "yangiastu@gmail.com"  
 
 speakers:
   - gname: Mathew
