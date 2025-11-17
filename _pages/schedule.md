@@ -2,10 +2,11 @@
 title: "Schedule"
 permalink: /schedule.html
 layout: single
-# classes: wide  <-- 我把它注释掉了，侧边栏就会回来了。如果你觉得表格太挤，可以把这行前面的 # 去掉
+classes: wide  
 toc: false
 sidebar:
-  nav: "docs" # 建议改成这个，或者保持你原来的配置，但要确保 _data/navigation.yml 里有对应的列表
+    - nav: sitemap
+    - nav: contact
 ---
 
 {% comment %}
