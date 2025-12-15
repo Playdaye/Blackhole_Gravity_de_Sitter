@@ -48,9 +48,13 @@ speakers:
     fname: Jiang
     from: Northeastern University
     
-  - gname: Robert de Melo
+  - gname: Robert de Mello
     fname: Koch
     from: Huzhou University
+
+  - gname: Eunwoo
+    fname: Lee
+    from: Tata Institute of Fundamental Research
     
   - gname: Ji-Hoon 
     fname: Lee
@@ -67,3 +71,36 @@ speakers:
   - gname: Mengyang
     fname: Zhang
     from: IPMU, Tokyo University 
+
+
+  - gname: Diandian
+    fname: Wang
+    from: Harvard University
+
+
+
+  - gname: Sam Van
+    fname: Leuven
+    from: University of the Witwatersrand
+
+
+
+
+  - gname: Masamichi
+    fname: Miyaji
+    from: RIKEN 
+
+
+
+  - gname: Frank
+    fname: Ferrari
+    from: Brussels University 
+
+
+
+  - gname: Philipp Andres
+    fname: Hoehn
+    from: Okinawa Institute of Science and Technology
+    
+
+    
