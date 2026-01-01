@@ -1,4 +1,4 @@
----
+<img width="469" height="30" alt="image" src="https://github.com/user-attachments/assets/9a9fd31d-8279-4240-8d52-b491093af501" />---
 title: "Participants"
 permalink: /participants.html
 layout: single
@@ -18,10 +18,6 @@ other_participants:
     - gname: Bin
       fname: Chen
       from: Ningbo University
-    
-    - gname: Wenli
-      fname: Yang
-      from: Northeast University
 
     - gname: Junpeng 
       fname: Cao
@@ -49,16 +45,12 @@ other_participants:
 
     - gname: Jun
       fname: Nian
-      from:  UCSA, CAS
+      from:  ICTPAP, CAS
 
     - gname: Jieqiang
       fname: Wu
       from:  ITP, CAS
 
-    - gname: Cheng
-      fname: Peng
-      from:  KITS, CAS
-  
     - gname: Yang
       fname: Zhou
       from:  Fudan University
@@ -103,10 +95,6 @@ other_participants:
       fname: Zhang
       from:  Zhejiang University
 
-    - gname: Yen-Kheng
-      fname: Lim
-      from:  Xiamen University, Malaysia Campus    
-
     - gname: Hao
       fname: Zou
       from: SIMIS
@@ -119,10 +107,200 @@ other_participants:
     - gname: Yiwen
       fname: Pan
       from: Sun Yat-sen University
+      
+    - gname: Chushun
+      fname: Tian
+      from: ITP, CAS
+
+    - gname: Zhaolong
+      fname: Wang
+      from: Northwest University
+
+    - gname: Wei
+      fname: Song
+      from: Tsinghua University
+
+    - gname: Hong
+      fname: Lu
+      from: Tianjin University
+
+    - gname: Fengjun
+      fname: Xu
+      from: BIMSA
+
+    - gname: Cheng
+      fname: Peng
+      from: KITS, CAS
+
+    - gname: Jun
+      fname: Feng
+      from: Xi'an Jiaotong University
+
+    - gname: Xing
+      fname: Huang
+      from: Northwest University
+
+
+    - gname: Yang
+      fname: An
+      from: Zhejiang Ocean University/ KITS
+    
+    - gname: Alexey
+      fname: Koshelev
+      from: ShanghaiTech University
+
+    - gname: Bin
+      fname: Guo
+      from: Central South University
+
+
+    - gname: Hongbao
+      fname: Zhang
+      from: Beijing Normal University
+
+
+    - gname: Shi
+      fname: Cheng
+      from: SIMIS
+
+
+
+    - gname: Hai
+      fname: Lin
+      from: Southeast University
+
+
+    - gname: Long
+      fname: Zhao
+      from: Neimunggu University
+
+
+    - gname: Yuan
+      fname: Sun
+      from: Central South University
 
 
 
 
+
+    - gname: Xuyao
+      fname: Hu
+      from: Tsinghua University
+
+
+    - gname: Pan
+      fname: Li
+      from: KITS, UCAS
+
+
+    - gname: Bowen
+      fname: Chen
+      from: KITS, UCAS
+
+    - gname: Wen-Xin
+      fname: Lai
+      from: KITS, UCAS
+
+    - gname: Liangyu
+      fname: Chen
+      from: Tsinghua University
+
+    - gname: Zixia
+      fname: Wei
+      from: Harvard University & Kyoto University 
+
+
+    - gname: Shengjia
+      fname: Zhou
+      from: Tsinghua University
+
+
+    - gname: Guan-Cheng
+      fname: Lu
+      from: KITS, UCAS
+
+    - gname: Yichen
+      fname: Feng
+      from: Tsinghua University
+
+    - gname: Thomas
+      fname: Wang
+      from: Tsinghua University
+
+    - gname: Jingru
+      fname: Lu
+      from: Tsinghua University
+
+    - gname: Ming-Xuan
+      fname: Liu
+      from: USTC
+
+    - gname: Yifan
+      fname: Yao
+      from: Tsinghua University
+
+    - gname: Sirui
+      fname: Shuai
+      from: Tsinghua University
+
+    - gname: Shu
+      fname: Luo
+      from: USTC
+
+    - gname: Minjun
+      fname: Xie
+      from: Tsinghua University
+
+    - gname: Ziqian
+      fname: Hu
+      from: ITP, CAS
+      
+    - gname: Haolin
+      fname: Fan
+      from: Tsinghua University
+
+    - gname: Qiyuan
+      fname: Chen
+      from: Tsinghua University
+
+    - gname: Zhengyuan
+      fname: Du
+      from: Tsinghua University
+
+    - gname: Xianlai
+      fname: Wu
+      from: Tsinghua University
+
+    - gname: Wenni
+      fname: Zheng
+      from: ICTPAP, CAS
+
+    - gname: Kangning
+      fname: Liu
+      from: Tsinghua University
+
+    - gname: Xiao-Shuai
+      fname: Wang
+      from: ITP, CAS
+
+    - gname: Wenjing
+      fname: Chen
+      from: Xi'an Jiaotong University
+
+    - gname: Tingkai
+      fname: Chen
+      from: Xiamen University
+
+    - gname: Jinghao
+      fname: Jin
+      from: Xiamen University
+
+
+
+
+
+
+      
 ---
 
 {% comment %}
