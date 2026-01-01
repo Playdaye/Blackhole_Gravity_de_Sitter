@@ -1,4 +1,4 @@
-<img width="469" height="30" alt="image" src="https://github.com/user-attachments/assets/9a9fd31d-8279-4240-8d52-b491093af501" />---
+---
 title: "Participants"
 permalink: /participants.html
 layout: single
