@@ -134,7 +134,7 @@ other_participants:
 
     - gname: Jun
       fname: Feng
-      from: Xi'an Jiaotong University
+      from: "Xi'an Jiaotong University"
 
     - gname: Xing
       fname: Huang
@@ -207,7 +207,7 @@ other_participants:
 
     - gname: Zixia
       fname: Wei
-      from: Harvard University & Kyoto University 
+      from: "Harvard University & Kyoto University" 
 
 
     - gname: Shengjia
@@ -285,8 +285,8 @@ other_participants:
 
     - gname: Wenjing
       fname: Chen
-      from: Xi'an Jiaotong University
-
+      from: "Xi'an Jiaotong University"
+      
     - gname: Tingkai
       fname: Chen
       from: Xiamen University
