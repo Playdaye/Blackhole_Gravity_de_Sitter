@@ -51,7 +51,7 @@ th{
   padding: 1em 0.5em;
   font-weight: bold;
   text-align: center;
-  background-color: #f9f9f9;
+  background-color: transparent;
   border: 1px solid #eee;
 }
 </style>
