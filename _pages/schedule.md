@@ -71,11 +71,11 @@ th{
 <tbody>
     <tr class="min15">
       <th style="width: 10%;">Time</th>
-      <th style="width: 18%;">1.19 (Mon)</th>
-      <th style="width: 18%;">1.20 (Tue)</th>
-      <th style="width: 18%;">1.21 (Wed)</th>
-      <th style="width: 18%;">1.22 (Thu)</th>
-      <th style="width: 18%;">1.23 (Fri)</th>
+      <th style="width: 18%;">1.19 (Monday)</th>
+      <th style="width: 18%;">1.20 (Tuesday)</th>
+      <th style="width: 18%;">1.21 (Wednesday)</th>
+      <th style="width: 18%;">1.22 (Thursday)</th>
+      <th style="width: 18%;">1.23 (Friday)</th>
     </tr>
 
     <tr class="min10">
@@ -137,6 +137,17 @@ th{
       <td></td>
       <td></td>
     </tr>
+
+
+<tr class="min10">
+      <td>19:00&#8209;</td>
+      <td><strong>Banquet</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
 
 </tbody>
 </table>
