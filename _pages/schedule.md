@@ -141,9 +141,9 @@ th{
 
 <tr class="min10">
       <td>19:00&#8209;</td>
+      <td></td>
+      <td></td>
       <td><strong>Banquet</strong></td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
