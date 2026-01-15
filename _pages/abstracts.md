@@ -42,7 +42,7 @@ We argue that the space of invariants of multi-matrix model quantum mechanics, a
 
 ## Aspects of fortuitous cohomologies in holographic field theories and matrix quantum mechanics by Eunwoo Lee
 
-We investigate fortuitous cohomologies and how they behave as the coupling is varied in holographic field theories. Using S-duality, we study how these cohomologies appear at weak coupling and how they persist or reorganize at strong coupling. We then turn to the BMN matrix model, analyze its cohomologies, and examine spectral properties of the deconfined phase. Although black holes in the BMN matrix model have not been identified, our analysis suggests that, for fixed N, the area of a putative horizon is bounded from above.
+We investigate fortuitous cohomologies and how they behave as the coupling is varied in holographic field theories. Using S-duality, we study how these cohomologies appear at weak coupling and how they persist or reorganize at strong coupling. We then turn to the BMN matrix model, analyze its cohomologies, and examine spectral properties of the deconfined phase. Although black holes in the BMN matrix model have not been identified, our analysis suggests that, for fixed $N$, the area of a putative horizon is bounded from above.
 
 
 ## Polar states in AdS3 quantum gravity by Ji Hoon Lee
