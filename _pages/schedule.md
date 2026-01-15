@@ -81,7 +81,7 @@ th{
 
     <tr class="min10">
       <td>9:00&#8209;9:25</td>
-      <td><strong>Registration</strong></td>
+      <td style="font-style:italic;">Registration</td>
       <td></td>
       <td></td>
       <td></td>
@@ -91,7 +91,7 @@ th{
     
     <tr class="min10">
       <td>9:25&#8209;9:30</td>
-      <td><strong>Opening Remarks</strong></td>
+      <td style="font-style:italic;">Opening Remarks</td>
       <td></td>
       <td></td>
       <td></td>
@@ -100,11 +100,11 @@ th{
     
     <tr class="min60">
       <td>9:30&#8209;10:30</td>
-      <td><strong>Robert de Mello Koch</strong></td>
-      <td><strong>Cynthia Yan</strong></td>
-      <td><strong>Frank Ferrari</strong></td>
-      <td><strong>Elisa Tabor</strong></td>
-      <td><strong>Mathew Heydeman</strong></td>
+      <td>Robert de Mello Koch</td>
+      <td>Cynthia Yan</td>
+      <td>Frank Ferrari</td>
+      <td>Elisa Tabor</td>
+      <td>Mathew Heydeman</td>
     </tr>
     
     <tr class="min30">
@@ -114,11 +114,11 @@ th{
     
     <tr class="min60">
       <td>11:00&#8209;12:00</td>
-      <td><strong>Zechuan Zheng</strong></td>
-      <td><strong>Masamichi Miyaji</strong></td>
-      <td><strong>Sean Colin-Ellerin</strong></td>
-      <td><strong>Jan Boruch</strong></td>
-      <td><strong>Philipp A. Hoehn</strong></td>
+      <td>Zechuan Zheng</td>
+      <td>Masamichi Miyaji</td>
+      <td>Sean Colin-Ellerin</td>
+      <td>Jan Boruch</td>
+      <td>Philipp A. Hoehn</td>
     </tr>
     
     <tr class="lunch">
@@ -128,9 +128,9 @@ th{
     
     <tr class="min60">
       <td>14:00&#8209;15:00</td>
-      <td><strong>Sam Van Leuven</strong></td>
-      <td><strong>Diandian Wang</strong></td>
-      <td><strong>Ji-Hoon Lee</strong></td>
+      <td>Sam Van Leuven</td>
+      <td>Diandian Wang</td>
+      <td>Ji-Hoon Lee</td>
       <td style="font-style:italic;">Free Discussion</td>
       <td style="font-style:italic;">Free Discussion</td>
     </tr>
@@ -142,8 +142,8 @@ th{
 
     <tr class="min60">
       <td>15:30&#8209;16:30</td>
-      <td><strong>Eunwoo Lee</strong></td>
-      <td><strong>Mengyang Zhang</strong></td>
+      <td>Eunwoo Lee</td>
+      <td>Mengyang Zhang</td>
       <td></td>
       <td></td>
       <td></td>
@@ -154,7 +154,7 @@ th{
       <td>19:00&#8209;</td>
       <td></td>
       <td></td>
-      <td><strong>Banquet</strong></td>
+      <td style="font-style:italic;">Banquet</td>
       <td></td>
       <td></td>
     </tr>
