@@ -78,6 +78,17 @@ th{
       <th style="width: 18%;">1.23 (Friday)</th>
     </tr>
 
+
+    <tr class="min10">
+      <td>9:00&#8209;9:20</td>
+      <td><strong>Registration</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    
     <tr class="min10">
       <td>9:20&#8209;9:30</td>
       <td><strong>Opening Remarks</strong></td>
