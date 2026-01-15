@@ -98,7 +98,7 @@ th{
     
     <tr class="min30">
       <td>10:30&#8209;11:00</td>
-      <td colspan="5" style="background-color:#fafafa; font-style:italic;">Coffee Break</td>
+      <td colspan="5" style="background-color:transparent; font-style:italic;">Coffee Break</td>
     </tr>
     
     <tr class="min60">
@@ -112,7 +112,7 @@ th{
     
     <tr class="lunch">
       <td>12:00&#8209;14:00</td>
-      <td colspan="5" style="background-color:#fafafa; font-style:italic;">Lunch Buffet</td>
+      <td colspan="5" style="background-color:transparent; font-style:italic;">Lunch Buffet</td>
     </tr>
     
     <tr class="min60">
@@ -126,7 +126,7 @@ th{
 
     <tr class="min30">
       <td>15:00&#8209;15:30</td>
-      <td colspan="5" style="background-color:#fafafa; font-style:italic;">Coffee Break</td>
+      <td colspan="5" style="background-color:transparent; font-style:italic;">Coffee Break</td>
     </tr>
 
     <tr class="min60">
