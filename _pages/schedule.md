@@ -100,11 +100,11 @@ th{
     
     <tr class="min60">
       <td>9:30&#8209;10:30</td>
-      <td><strong>Robert de Mello Koch</td>
-      <td><strong>Cynthia Yan</td>
-      <td><strong>Frank Ferrari</td>
-      <td><strong>Elisa Tabor</td>
-      <td><strong>Mathew Heydeman</td>
+      <td><strong>Robert de Mello Koch</strong></td>
+      <td><strong>Cynthia Yan</strong></td>
+      <td><strong>Frank Ferrari</strong></td>
+      <td><strong>Elisa Tabor</strong></td>
+      <td><strong>Mathew Heydeman</strong></td>
     </tr>
     
     <tr class="min30">
@@ -114,11 +114,11 @@ th{
     
     <tr class="min60">
       <td>11:00&#8209;12:00</td>
-      <td><strong>Zechuan Zheng</td>
-      <td><strong>Masamichi Miyaji</td>
-      <td><strong>Sean Colin-Ellerin</td>
-      <td><strong>Jan Boruch</td>
-      <td><strong>Philipp A. Hoehn</td>
+      <td><strong>Zechuan Zheng</strong></td>
+      <td><strong>Masamichi Miyaji</strong></td>
+      <td><strong>Sean Colin-Ellerin</strong></td>
+      <td><strong>Jan Boruch</strong></td>
+      <td><strong>Philipp A. Hoehn</strong></td>
     </tr>
     
     <tr class="lunch">
@@ -128,9 +128,9 @@ th{
     
     <tr class="min60">
       <td>14:00&#8209;15:00</td>
-      <td><strong>Sam Van Leuven</td>
-      <td><strong>Diandian Wang</td>
-      <td><strong>Ji-Hoon Lee</td>
+      <td><strong>Sam Van Leuven</strong></td>
+      <td><strong>Diandian Wang</strong></td>
+      <td><strong>Ji-Hoon Lee</strong></td>
       <td style="font-style:italic;">Free Discussion</td>
       <td style="font-style:italic;">Free Discussion</td>
     </tr>
@@ -142,8 +142,8 @@ th{
 
     <tr class="min60">
       <td>15:30&#8209;16:30</td>
-      <td><strong>Eunwoo Lee</td>
-      <td><strong>Mengyang Zhang</td>
+      <td><strong>Eunwoo Lee</strong></td>
+      <td><strong>Mengyang Zhang</strong></td>
       <td></td>
       <td></td>
       <td></td>
