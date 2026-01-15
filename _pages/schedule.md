@@ -80,7 +80,7 @@ th{
 
 
     <tr class="min10">
-      <td>9:00&#8209;9:20</td>
+      <td>9:00&#8209;9:25</td>
       <td><strong>Registration</strong></td>
       <td></td>
       <td></td>
@@ -90,7 +90,7 @@ th{
     
     
     <tr class="min10">
-      <td>9:20&#8209;9:30</td>
+      <td>9:25&#8209;9:30</td>
       <td><strong>Opening Remarks</strong></td>
       <td></td>
       <td></td>
