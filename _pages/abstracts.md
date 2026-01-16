@@ -41,6 +41,10 @@ A key signature of chaos in quantum chaotic systems is the random matrix behavio
 Extending the usual holographic framework to the case of finite bulk geometries ("finite cut-off") is an outstanding open problem that has attracted a lot of attention in recent years. I will explain how the problem can be solved in the contect of JT quantum gravity, revealing many new interesting features and making an unexpected link with traditional Liouville quantum gravity techniques.
 
 
+## An introduction to quantum reference frames and applications in high-energy physics by Philipp Andres Hoehn
+
+Quantum reference frames (QRFs) are a universal tool for dealing with symmetries in quantum theory. While they originated in the foundations of quantum theory and quantum information, they are particularly useful in theories with gauge symmetries, where they define a split between redundant and non-redundant information. In my talk, I will give an introduction to QRFs, explaining how they can be used to build gauge-invariant descriptions and give rise to a novel form of quantum covariance under changes of QRFs. This leads to a QRF-dependence of entanglement, thermal properties, and more generally of gauge-invariant definitions of subsystem partitions. For illustration, I will then apply this to perturbative quantum gravity and clarify how the recent story about “observers” in gravitational algebras by Witten et al. is one about QRFs. Time permitting, I will also apply this to entanglement entropy discussions in gauge theories.
+
 
 ## Secondary Invariants, trace relations and fermions by Robert de Mello Koch
 
@@ -67,7 +71,7 @@ We construct Hilbert space of AdS and dS JT Lorentzian closed universes. By perf
 We introduce a theory of pure fermionic 3D gravity with negative cosmological constant. We compute the partition function with torus boundary for all possible spin structures. Combining modular invariance under different congruence subgroups with random matrix statistics, we construct Euclidean fermionic two-boundary wormholes, which are topologically a torus times an interval. These contain information about the spectral correlations between black hole microstates in the presence of fermions, and after analytic continuation to Lorentzian signature, they exhibit the expected late time ramp that is characteristic of random matrix universality. Finally, we generalize these wormholes to the case where the boundary CFT has various discrete symmetries. Based on upcoming work with Jan Boruch and G. Joaquin Turiaci.
 
 
-## Superconformal indices in closed form and BPS spectroscopy by Sam van Leuven
+## Superconformal indices in closed form and BPS spectroscopy by Sam Van Leuven
 
 In the first part of this talk, I will present a method to evaluate superconformal indices of $4d$ $N=1$ superconformal field theories in closed form. To illustrate the use of such expressions, I will consider the example of $N=4$ $SU(2)$ super Yang-Mills (SYM) and evaluate indices in various BPS sectors. For the $1/4$  BPS Hall-Littlewood and $1/8$ BPS Macdonald index, the expressions manifest various features of the BPS spectrum at non-zero Yang-Mills coupling. In particular, the expressions suggest the absence of fortuitous or non-graviton operators in these sectors, which have recently been proposed as dual operators to supersymmetric black hole microstates in $AdS_5$.
 
