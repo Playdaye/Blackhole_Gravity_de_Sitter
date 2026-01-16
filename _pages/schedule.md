@@ -80,7 +80,7 @@ th{
 
 
     <tr class="min10">
-      <td>9:00&#8209;9:25</td>
+      <td>8:30&#8209;8:55</td>
       <td style="font-style:italic;">Registration</td>
       <td></td>
       <td></td>
@@ -90,7 +90,7 @@ th{
     
     
     <tr class="min10">
-      <td>9:25&#8209;9:30</td>
+      <td>8:55&#8209;9:00</td>
       <td style="font-style:italic;">Opening Remarks</td>
       <td></td>
       <td></td>
@@ -99,7 +99,7 @@ th{
     </tr>
     
     <tr class="min60">
-      <td>9:30&#8209;10:30</td>
+      <td>9:00&#8209;10:00</td>
       <td>Robert de Mello Koch</td>
       <td>Cynthia Yan</td>
       <td>Frank Ferrari</td>
@@ -108,21 +108,21 @@ th{
     </tr>
     
     <tr class="min30">
-      <td>10:30&#8209;11:00</td>
+      <td>10:00&#8209;10:30</td>
       <td colspan="5" style="background-color:transparent; font-style:italic;">Coffee Break</td>
     </tr>
     
     <tr class="min60">
-      <td>11:00&#8209;12:00</td>
+      <td>10:30&#8209;11:30</td>
       <td>Zechuan Zheng</td>
       <td>Masamichi Miyaji</td>
-      <td>Sean Colin-Ellerin</td>
+      <td>Eunwoo Lee</td>
       <td>Jan Boruch</td>
       <td>Philipp A. Hoehn</td>
     </tr>
     
     <tr class="lunch">
-      <td>12:00&#8209;14:00</td>
+      <td>11:30&#8209;14:00</td>
       <td colspan="5" style="background-color:transparent; font-style:italic;">Lunch Buffet</td>
     </tr>
     
@@ -142,7 +142,7 @@ th{
 
     <tr class="min60">
       <td>15:30&#8209;16:30</td>
-      <td>Eunwoo Lee</td>
+      <td>Sean Colin-Ellerin</td>
       <td>Mengyang Zhang</td>
       <td></td>
       <td></td>
